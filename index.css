@@ -1,0 +1,19 @@
+h1 {color: purple;
+}
+
+
+  
+/*p{ color: blue;
+    
+}
+*/
+
+ p {color:palevioletred;
+    
+}
+button{color: rgba(255, 0, 204, 0.134);
+
+}
+button:hover {color: rgb(255, 0, 234);
+}
+
